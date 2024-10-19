@@ -34,6 +34,31 @@ exit
 
 l4d2serverにoutputディレクトリの中身を上書きで保存する。
 
+- [sourcemod](https://www.sourcemod.net/downloads.php)  
+- [metamod](https://www.metamodsource.net/downloads.php?branch=stable)  
+- [left4dhooks](https://forums.alliedmods.net/showthread.php?t=321696)  
+- [l4dtoolz]()  
+- [l4d2_8_slots_lobby]()  
+- [stripper]()  
+- [multicolor]()  
+- [l4dinfectedbots]()  
+- [l4dmultislots]()  
+    - [CreateSurvivorBot]()  
+- [l4d2_guncontrol]()  
+- [AutoTakeOver]()  
+- [l4d2_incapped_crawling]()  
+- [l4d2_lethal]()  
+- [Charger_Collision_patch]()  
+- [Defib_Fix]()  
+- [FixChangelevel]()  
+- [SourceScramble]()  
+- [l4d_heartbeat]()  
+- [l4d_survivor_identity_fix]()  
+- [l4dafkfix_deadbot]()  
+- [lfd_both_fixUpgradePack]()  
+- [survivor_afk_fix]()  
+- [witch_prevent_target_loss]()  
+- [l4d2_ty_saveweapons]()
 
 #### サーバ系の設定をする。
 left4dead2/cfgをだいたい設定あります
