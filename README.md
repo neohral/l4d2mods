@@ -59,7 +59,7 @@ l4d2serverに `pakkage.sh` の結果で出力されたディレクトリを入�
 - [witch_prevent_target_loss](https://github.com/LuxLuma/Left-4-fix/tree/master/left%204%20fix/witch/witch_target_patch):マルチバグ修正系  
 - [l4d2_ty_saveweapons](https://github.com/fbef0102/L4D2-Plugins/tree/master/l4d2_ty_saveweapons):マルチバグ修正系  
     - [l4d_heartbeat](https://github.com/fbef0102/L4D1_2-Plugins/tree/master/l4d_heartbeat):ライフ数と白黒ステータスの調整mod(前提mod)
-- [zenomServerBase](mods/zenomServerBase):cfgや起動バッチの設定をまとめて入れておく(mods.txtの一番下にすることで設定ファイルを上書きする)
+- [zenomServerBase](mods/zenomServerBase):cfgや起動バッチの設定をまとめて入れたもの
 
 #### サーバ系の設定をする。
 left4dead2/cfgをだいたい設定あります
@@ -113,7 +113,7 @@ connect `グローバルのIPアドレス`:`ポート`
 [mapid](https://commands.gg/l4d2/map)でデフォルトのマップIDは確認できる。
 
 ## 参考
-- だいたいこれ  
+- だいたいこれ 
     - https://github.com/fbef0102/Game-Private_Plugin/tree/main/Tutorial_%E6%95%99%E5%AD%B8%E5%8D%80/English/Game/L4D2/8%2B_Survivors_In_Coop  
     - https://github.com/fbef0102/L4D1_2-Plugins/tree/master
     - https://github.com/fbef0102/L4D2-Plugins
